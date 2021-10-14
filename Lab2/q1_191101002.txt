@@ -1,0 +1,7 @@
+#Author: Mustafa Aydogan
+
+a. "([0-9][0-9][0-9]) [0-9][0-9][0-9]-[0-9][0-9][0-9][0-9]"
+b. ".[0-9][0-9][0-9].*[0-9][0-9][0-9].[0-9][0-9][0-9][0-9]"
+c. "[A-Za-z]*\. [A-Za-z]*"
+d. grep -o "[a-z]*[@][a-z.]*" lab2_q1.txt | tail -1
+e. I think there is no difference between “[expressions]” and “[exprsion]” because I tried to write grep command to terminal. I saw it is no difference. If some letters are duplicated, it doesn't change anything.

@@ -1,0 +1,49 @@
+1. Move around the file system
+
+	a. prints path of current directory
+	b. ls or ls -a
+	c. touch Lab1
+	d. goes to home directory
+	e. prints contents of parent directory
+	f. cd /
+	g. Because there is no parnet directory of root, noting happened.
+	h. cd
+	i. ls ../..
+	j. export BIL=214
+	k. echo $BIL
+
+2. File utilities
+
+	a. cd Lab1
+	b. display the descriptions of the man command
+	c. mkdir F1
+	   cd F1
+	   mkdir F2
+	   cd F2
+	   mkdir F3
+	d. cp -R F1/F2/F3 F1
+	e. cd F1/F2
+	   rmdir F3
+	f. mv F1/F3 F1
+	g. touch a2.c
+	   touch s1.txt
+	   touch a3.py
+	   touch t5.txt
+	   touch d4.c
+	h. ls a*
+	i. ls *.c
+
+3. Text operations
+
+	a. nano s1.txt
+	b. prints the content of s1.txt file 
+	c. sort < s1.txt
+	d. cat s1.txt | uniq
+	e. grep e s1.txt
+	f. grep t$ s1.txt
+	g. tail -9 s1.txt
+	h. sort < s1.txt | head -4
+	i. sort < s1.txt > sorted.txt
+	j. grep o sorted.txt > o_lines.txt
+	k. ls / >> o_lines.txt
+	l. rm -r *

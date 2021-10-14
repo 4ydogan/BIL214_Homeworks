@@ -1,0 +1,15 @@
+TOBB University of Economics and Technology ( TOBB ETU )
+Address: Sogutozu Caddesi No:43, Sogutozu, Ankara, 06560 Turkey
+Phone: (312) 292-4000
+Fax: 312 287 1946
+E-mail: bilgi@etu.edu.tr
+
+Hello there,
+We are BIL214-Systems Programming TAs Yahya Can Tugrul and Bahattin Can Maral. For your questions about the course, our email addresses are listed below.
+Yahya Can Tugrul: yahyacantugrul@gmail.com
+Bahattin Can Maral: bahattincanmaral@gmail.com
+
+In this lab you will answer questions about regular expressions using this file.
+
+Take care and stay safe.
+Good luck.

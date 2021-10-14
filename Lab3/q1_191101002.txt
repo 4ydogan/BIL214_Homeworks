@@ -1,0 +1,7 @@
+#Mustafa Aydoğan
+#191101002
+
+
+a) No. It did not accomplish what we want. This command did not change exactly two string. It change characters. Therefore, we do not want this. We should use sed command to accomplish what we want.
+
+b) echo "You need to work faster" | sed 's/You/I/g'

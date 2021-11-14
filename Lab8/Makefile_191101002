@@ -1,0 +1,8 @@
+CC=gcc
+CFLAGS=	-g	-Wall
+calc: main.o node_191101002.h
+	$(CC) $(CFLAGS)	-o	calc main.o node_191101002.o	-I.	
+main.o:	main.c main.h node_191101002.h
+    $(CC) $(CFLAGS)	-c	main.c *core
+node_191101002.o:	node_191101002.c node_191101002.h		
+	$(CC) $(CFLAGS)	-c	node_191101002.c *~ *core

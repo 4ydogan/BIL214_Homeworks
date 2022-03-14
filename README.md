@@ -5,4 +5,3 @@ BIL214 dersi Sistem Programlama dersidir. Ders içeriği;
 - Linux ortamında sistem programlama, 
 - Bash Script ile hızlı programlar geliştirme
 - C programlama dili ile çeşitli programlar yazma olarak özetlenebilir.
-- 
